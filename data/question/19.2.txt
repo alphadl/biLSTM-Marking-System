@@ -1,0 +1,2 @@
+因为M为PD的中点,F分别为AD的中点,所以MF//PA,又因为MF不包含于平面PAB,PA包含于平面PAB,所以MF//平面PAB.同理,得EF//平面PAB。又因为MF相交于EF=F,MF包含于平面MEF,EF包含于平面MEF,所以平面MEF//平面PAB.又因为ME包含于平面MEF,所以ME//平面PAB。	4	MF//PA；MF不包含于平面PAB；PA包含于平面PAB；MF//平面PAB；EF//平面PAB；MF相交于EF=F；平面MEF//平面PAB；ME包含于平面MEF；ME//平面PAB
+做PA中点N，连接MN，BN，在三角形PAD中，MN∥AD，且MN=1/2AD,在平行四边形ABCD中，BE∥AD，且BE=1/2AD, 所以BE∥MN，且BE=MN,所以BEMN为平行四边形所以ME∥BN,又ME不包含于平面PAB,BN包含于平面PAB,所以平面ME//平面PAB。	4	做PA中点；MN∥AD；MN=1/2AD；BEM；为平行四边形；平面ME//平面PAB

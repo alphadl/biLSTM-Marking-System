@@ -1,0 +1,1 @@
+因为正方形ABCD中,E,F分别为BC,DA的中点,所以EF垂直于FD,EF垂直于FA,又因为FD相交于FA=F,所以EF垂直于平面DFA。又因为DG包含于平面DFA,所以DG垂直于EF。	4	EF垂直于FD；EF垂直于FA；FD相交于FA=F；FD相交于FA=F；EF垂直于平面DFA；DG垂直于EF

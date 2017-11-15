@@ -1,0 +1,1 @@
+在平行四边形ABCD中,因为AB=AC,角BCD=135度,所以AB垂直于AC.由E,F分别为BC,AC的中点,得EF//AB,所以EF垂直于AC.因为侧平面PAB垂直于底平面ABCD,且角BAP=90度,所以PA垂直于底面ABCD.又因为EF包含于底平面ABCD,所以PA垂直于EF.又因为PA相交于AC=A,PA包含于平面PAC,AC包含于平面PAC,所以EF垂直于平面PAC.	3	AB垂直于AC；EF//AB；EF垂直于AC；PA垂直于底面ABCD；PA垂直于EF；PA相交于AC=A；EF垂直于平面PAC

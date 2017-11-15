@@ -1,0 +1,1 @@
+在三角形PAD中,过M作MN//PA交AD于N,由PM/MD=1/2,得MN/PA=2/3,又因为PA=6,所以MF=4,又PA垂直于底平面ABCD,故MF垂直于底平面ABCD，所以四棱锥M-ECDF的体积V右下(M-ECDF)=(1/3)*S右下(平行四边形ECDF)*MN=(1/3)*(6*6/2)*4=24.	3	MF=4；MF垂直于底平面ABCD;V右下(M-ECDF)=(1/3)*S右下(平行四边形ECDF)*MN=(1/3)*(6*6/2)*4=24

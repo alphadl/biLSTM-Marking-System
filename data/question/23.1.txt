@@ -1,0 +1,3 @@
+在正方形MADE中，因为B是AM的中点，所以AB//DE。又因为AB不包含于平面PDE，所以AB//平面PDE，因为AB包含于平面ABF，且平面ABF相交平面PDF=FG，所以AB//FG。	4	AB//DE；AB//平面PDE；AB包含于平面ABF;平面ABF相交平面PDF=FG；AB//FG
+设T为PD中点，因为F,B,C为中点，AMDE为正方形，ED//AM，由中位线定理知，FT//ED//AM，所以ABFT共面所以T为平面ABF和直线PD的交点，所以点T和点G重合所以AB//FG。	4	设；为PD中点；ABFT共面；点G重合
+延长EA、DB交于点Q，连接PQ，在矩形MAED中，B为AM中点，所以AB//DE,AB=(1/2)DE，所以A为QE中点，B为DQ中点，在三角形QAE中，又因为F为PE的中点，所以AF//FQ,AF=(1/2)PQ。又因为AF不包含于平面PQD,所以AF//平面PQD。又AF包含于平面AFG，平面AFG相交平面PQD=BG,所以AF//BG，所以BG//PQ,所以G为中点，且BG=1/2AF,所以AF=BG,又AF//BG,所以四边形ABGF为平行四边形，所以AB//FG。	4	AF//平面PQD；AF//BG；G为中点；AF=BG；AF//BG；AB//FG

@@ -1,0 +1,51 @@
+0	NULL
+0	因为面AFD：y-z=0,向量PC(2,1,-2)。
+0	过H做HI垂直于AF交AF于点I，PI=根号(IF右上(2)+FP右上(2))=根号(1/2+2)=根号10/2
+0	向量PC=(2,1,-2),设H(x右下(0),y右下(0),z右下(0))
+5	设向量PH=n*向量PC=n*(2,1,-2)=(2n,n,-2n),向量AH=向量AP+向量PA=(2n,2,2-2n),因为向量AH在面ADF上，所以向量AH*向量m=0,-n+2n-2=0,n=2/3,所以PH(4/3,2/3,),|向量PH|=2.
+0	NULL
+5	设向量PH=\lambda向量PC，向量PC=(2,1,-2),向量PH=(2\lambda,\lambda,-2\lambda),向量AH=向量AP+向量PH=(2\lambda,\lambda,2-2\lambda)，由向量共面基本定理，有向量AH=x向量AF+y向量AB即(2\lambda,\lambda,2-2\lambda)=(y,x,x),{2\lambda=y,x=\lambda,2-2\lambda=x}，有\lambda=2/3，即PH=3/2*|向量PC|=3/2*根号(4+4+1)=2.
+0	NULL
+5	设向量PH=\lambda向量PC，\lambda属于(0,1),向量PC=(2,1,-2),向量PH=(2\lambda,\lambda,-2\lambda),所以H(2\lambda,\lambda,2-2\lambda),向量AH=(2\lambda,\lambda,2-2\lambda)，向量AH*向量n=0,所以\lambda+2\lambda-2=0=>\lambda=2/3,PH=2/3PC=2/3(根号(2右上(2)+1+2右上(2)))=2。
+5	如(II)①建立空间直角坐标系，则P:(0,0,2) C(2,1,0)，向量PC:(2,1,-2)，设向量PH(2\lambda,\lambda,-2\lambda)，向量BP(-1,0,2)，向量BH=向量BP+向量PH=(2\lambda-1,\lambda,2-2\lambda)，有向量BH*向量n=0，即\lambda+2\lambda-2=0，\lambda=2/3，|向量PC|=根号(2右上(2)+2右上(2)+1右上(2))=3，所以|向量PH|=2/3|向量PC|=2。
+4	连接PM、GC、HM，则M在平面ABF上，所以GM=面ABF相交于面AMD，又GH=面AFG相交于AMD，所以G、H、M三点共线，F为PE中点，FG//AB//DE，所以G为PD中点，又C为DM中点，所以GC//PM，GC//=1/2PM，所以三角形PHM相似于三角形CHG，所以PH/HC=PM/GC=2，由(2)，C(2,1,0) P(0,0,2) 所以|PC|=3，所以|PH|=2/3|PC|=2。
+5	由(2),P(0,0,2) C(2,1,0)，PC=|向量PC|=根号(2右上2+1右上2+2右上2)=根号9=3，由任一点Q，向量QP//向量PC，PC直线方程为x/2=y/1=(z-2)/-2，由QA垂直于向量n，平面方程为：x-0+y-z=0，y-z=0，两者交点为z=2/3=y，x=4/3，所以H(4/3,2/3,2/3)，所以|PH|=根号((4/3)右上2+(2/3)右上2+(4/3)右上2)=2。
+0	NULL
+5	设PH=\lambdaPC，因为向量PC(2,1,-2)，所以向量PH(2\lambda,\lambda,-2\lambda)，所以H(2\lambda,\lambda,2-2\lambda)，因为AH在面ABF内，所以向量AH*向量n=0，因为向量AH(2\lambda,\lambda,2-2\lambda)，所以-\lambda+2-2\lambda=0，\lambda=2/3，因为|向量PC|=3，所以|向量PH|=2/3*3=2。
+5	因为H在面ABF上，设向量AH=x右下(1)向量AB+y右下(1)向量AF，所以向量AH=(x右下(1),y右下(1),y右下(1))，又H在PC上，设向量PH=\lambda向量PC，向量AH=向量AP+\lambda向量PC=(2\lambda,\lambda,-2\lambda+2)，所以\lambda=-2\lambda+2，\lambda=2/3，所以向量AH(4/3,2/3,2/3)，向量PH(4/3,2/3,-4/3)，因为|PH|=根号((4/3)右上2+(2/3)右上2+(4/3)右上2)=2。
+0	NULL
+3	解：因为由(2)得，P(0,0,2)，过H作HK垂直于平面ABCD于点K，连接KH，作KQ垂直于AM于点Q，连接AK,KQ,AC,HQ，向量PC=(2,1,-2)，因为设向量PH=\lambda向量PC，\lambda属于(0,1),所以H到ACDE的距离m=(1-\lambda)|向量PA|，HQ//AF，KQ:MC=\lambda，HK:AP=1-\lambda，所以|向量PH|=2/3|向量PC|=2。
+0	NULL
+0	解：找AE中点J，连接PJ、CJ，PJ垂直于AF于O，连接OH，显然可证OH//JC，所以DH/DC=DO/PJ= 。
+0	设H(x,y,z)，因为A,F,B,H共面，所以存在m，n属于R，使向量AH=m向量AF+n向量AB，即(x,y,z)=m(0,1,1)+n(1,0,0)，{x=n,y=m,z=m},所以y=z。同理，由向量BH=\mu向量BF+\lambda向量BA，可得x+y+z=1，由向量GH=\alpha向量GF+\beta向量GA，可得。
+5	因为P(0,0,2),C(2,1,0)，所以PC=根号(4+1+4)=3，设向量PF=\lambda向量PC，则向量AH-向量AP=\lambda(向量AC-向量AP)，所以H(2\lambda,\lambda,2(1-\lambda))，所以向量AH=(2\lambda,\lambda,2(1-\lambda))。因为H在面ABF上，所以向量AH垂直于向量n。即向量AH*向量n=\lambda-2(1-\lambda)=0，所以解得\lambda=2/3，所以|PH|=2/3|PC|=2。
+0	NULL
+5	设PH=\lambda*PC，H(2\lambda，\lambda，2-2\lambda)，向量n*向量BH=0，\lambda-2+2\lambda=0，\lambda=2/3，H(4/3,2/3,2/3)，|PC|=根号(4+1+4)=3，|PH|=\lambda*|PC|=2。
+0	NULL
+5	连AC，因为PA垂直于面AEM且AC包含于面AEM，所以PA垂直于AC，因为MC=1，AM=2，所以AC=根号5，PA=AE=2，所以PC=3，PH=(2/3)*PC=2。
+3	向量nABF=(0,-1,1)，P(0,0,2)，H为面ABHGF与PC交点，C(2,1,0)，向量PH=\lambda*向量PC=\lambda*(2,1,-2)，|(向量PH*向量n)/|向量n||=h=根号2=>|向量PH|=。
+0	因为A在平面ABF上，所以AB，AF共线，所以设H=\lambda*向量AB+k*向量AF。
+5	取AE中点Q，连结CQ、KH，连结PQ交AF于点K，连结AC，因为AMDE为正方形，MC=CD，AQ=QE，所以QC//AM，因为AB 不包含于平面PQC，QC包含于平面PQC，所以AB//平面PQC，因为平面ABF相交于PC=H，K属于PQ，K属于AF，所以KH=平面ABF相交于平面PQC，所以KH//AB，因为AQ=QE，PF=FE，PQ相交于AF=K，所以K为三角形AEP重心，所以PK/KQ=2，PH/HC=2，因为AC包含于平面BCD，PA垂直于平面ABCD，所以PA垂直于AC，因为PA=2，AC=根号(AM右上2+MC右上2)=根号5，所以PC=根号(PA右上2+AC右上2)=3,所以PH =PC*PH/(PH+HC)=PC*2/3=2，所以PH长为2。
+5	设PH/PC=\lambda，向量PH=\lambda*向量PC=\lambda*(2,1,-2)，向量AH=向量AP+向量PH=(2\lambda,\lambda,2(1-\lambda))，由(2)知平面ABF法向量为(0,1,-1)，因为H包含于平面ABF，所以向量AH*向量n=0，向量AH*向量n=\lambda-2(1-\lambda)=\lambda-2+\lambda=3\lambda-2=0，所以\lambda=2/3，PC=根号(4+1+4)=3，所以PH=\lambda*PC=2。
+5	接上问坐标系，向量PC为(2,1,-2)，设向量PH=\lambda*向量PC，向量H为(2\lambda,\lambda,2-2\lambda)，向量AH为(2\lambda,\lambda,2-2\lambda)，H在平面ABF内，向量AF，向量AB包含于平面ABF，AF相交于AB=A，所以存在n右下1，n右下2属于R使得，向量AH=n右下1*向量AB+n右下2*向量AF，n右下1*向量AB+n右下2*向量AF=(n右下1,n右下2,n右下2)，所以{2\lambda=n右下1，\lambda=n右下2,2*2\lambda=n右下1}，所以\lambda=2*2\lambda即可，所以\lambda=2/3，所以向量H为(4/3,2/3,2/3)，PH=2。
+5	因为向量AF=(0,1,1)，向量AB=(1,0,0)，所以设向量PH=\lambda，所以向量PC=\lambda(2,1,-2)，因为向量AH=向量PH+向量AP=\lambda(2,1,-2)+(0,0,2)，设向量AH=a*向量AF+b*向量AB，a，b属于R，{2\lambda=b，\lambda=a，-2\lambda+2=a}，\lambda=2/3，a=2/3，b=4/3，所以PH=2PC/PC=2/3*根号(2右上2+2右上2+1右上2)=2/3*3=2。
+5	因为H在PC上，设向量BH=\lambda*向量BP+(1-\lambda)*向量BC，又因为H在面AFH上，所以向量n右下1*向量BH=0，向量BP=(-1,0,2)，向量DC=(1,1,0)，所以向量BH(1-2\lambda,1-\lambda,2\lambda)，向量BH*向量n右下1=2\lambda+\lambda-1，所以\lambda=1/3，所以H(4/3,2/3,2/3)，P(0,0,2)，所以PH=2/3*PC=2。
+0	NULL
+5	因为H在PC上，所以设CH/CP=\lambda，所以向量CH=\lambda*向量CP，向量AH-向量AC=\lambda*(向量AP-向量AC)，向量AH=\lambda*向量AP-(1-\lambda)*向量AC，所以向量AH=\lambda(0,0,2)+(1-\lambda)(-1,2,0)=(\lambda-1,2-2\lambda,2\lambda)，因为H在平面ABF上，所以向量AH垂直于向量n，即\lambda-1+2\lambda=0，所以3\lambda=1，\lambda=1/3，所以CH/CP=1/3，所以H(-2/3,4/3,2/3)，所以P(0,0,2)，所以PH =根号((2/3)右上2+(4/3)右上2+(4/3)右上2)=2。
+0	NULL
+1	由(2)知P(0,0,2)，面AFGHB的一个法向量为向量n右下1=(1,0,1)，令H(x,y,z)，向量AH=(x,y,z)，向量FH=(x+1,y,z-1)，因为AF垂直于PE，FG//ED//AM，因为PA垂直于面ABCD，AE为PE在面ABCD上的投影，E包含于ABCD，D不包含于面AMCD，DA垂直于面ABCD，DE垂直于AE，所以综上有DE垂直于PE，因为由(1)知FG//ED，所以有PE垂直于FG，因为FG相交于AF=F，所以PE垂直于AFGHB，所以PH=根号3。
+0	因为H与ABFG共面，设H(m,n,k)，所以向量AH=x*向量AF+y*向量AB，所以{m=y，n=x，k=x}，所以(y,x,x)。
+5	因为H属于PC，所以设PH/PC=\lambda，又因为|向量PC|=3，向量PC=(2,-1,-2)，则向量BH=\lambda*向量BP+向量PH=向量BP+\lambda*向量PC=(2\lambda-1,-\lambda,2-2\lambda)，又BH包含于面ABF，又由(2)面ABF的法向量为向量n(0,-1,-1)，所以向量BH垂直于向量n，\lambda+2\lambda-2=0，\lambda=2/3，所以PH=2/3*PC=2。
+2	设PH/PC=\lambda，由（1）知P(0,0,2)，所以向量PH=\lambda*向量PC，所以向量AH-向量AP=\lambda(向量AC-向量AP)，向量AH=\lambda*向量AC+(1-\lambda)*向量AP=(2\lambda,\lambda,2-2\lambda)，由(2)知平面ABF法向量为向量n=(1,1,-1)，因为AH属于平面ABF，所以向量AH*向量n=0，2\lambda+\lambda+2\lambda-2=0,所以5*\lambda=2，\lambda=2/5，|向量PH|=2/5*|向量PC|=2/5*根号(2右上2+1右上+2右上2)=6/5，所以PH的长为6/5。
+5	设PH=\lambda*PC，则因为P(0,0,2)，C(-1,2,0)，PC=3，所以H(-\lambda,2\lambda,2-2\lambda)，因为H在面ABF上，面ABF一个法向量为向量n右下1=(1,0,1)，所以向量AH垂直于向量n右下1，所以向量AH*向量n右下1=0，所以-\lambda+2-2\lambda=0，所以\lambda=2/3，所以PH=2/3*PC=2/3*3=2。
+5	设PH/PC=\lambda，所以PH=\lambdaPC=\lambda*(-1,2,-2)，设H(a,b,c)，所以向量PH(a,b,c-2)，因为向量PH(a,b,c-2)，所以a=-\lambda，b=2\lambda，c=-2\lambda+2，所以H(-\lambda,2\lambda,-2\lambda+2)，因为A，B，F，H共面，所以向量AH=x向量AF+y向量AB，所以(-\lambda,2\lambda,-2\lambda+2)=x(-1,0,1)+y(0,1,0)，所以{-\lambda=-x，2\lambda=y，-2\lambda+2=x}，所以-\lambda=2\lambda-2，\lambda=2/3，因为|PC|=根号(1+4+4)=3，所以|PH|=2/3*|PC|=2。
+5	同(2)建系，设PH=\lambda*PC，\lambda属于(0,1)，向量PC=(2,1,-2)，所以向量AH=向量AP+\lambda*向量PC=(2\lambda,\lambda,2-2\lambda)，向量AF=(0,1,1)，向量AB=(1,0,0)，存在x，y属于R，B，F，H共面，x*向量AF+y*向量AB=向量AH，{y=2\lambda，x=\lambda，x=2-2\lambda}，所以\lambda=2/3，所以|向量PH|=2/3*|向量PC|=2/3*3=2。
+0	NULL
+5	设PH=\lambdaPC，因为向量PC=(2,1,-2)，P(0,0,2),H(2\lambda,\lambda,2-2\lambda)，又因为H属于平面ABF，所以向量AH垂直于向量a，所以向量AH*向量a=0，所以\lambda=2/3，所以|PH|=\lambda*|PC|=2。
+5	仍然使用上述坐标系，设H(x右下H,y右下H,z右下H)，向量PC(2,1,-2)，使得向量PH=\lambda*向量PC=(2\lambda,\lambda,-2\lambda)，0<\lambda<1，从而H(2\lambda,\lambda,2-2\lambda)，又因ABHGF共面，从而必然有向量AH=x向量AB+y向量AF，由向量AB=(1,0,0)，向量AF=(0,1,1)，则{2\lambda=x，\lambda=y，2-2\lambda=y}，可得\lambda=2/3，则向量PH(4/3,2/3,-4/3)，从而|向量PH|=根号((4/3)右上2+(2/3)右上2+(-4/3)右上2)=2。
+0	NULL
+5	使用(2)坐标系，向量PC=(2,1,-2)，设向量PH=\lambda*向量PC，H(2\lambda,\lambda,2-2\lambda)，因为H在平面ABF上，所以向量m垂直于向量AH，向量m*向量AH=0，所以\lambda+2\lambda-2=0,3\lambda=2，\lambda=2/3，PH=2PC/3=2/3*根号(2右上2+1+2右上2)=2。
+5	设PH/PC=\lambda(0<\lambda<1)，向量AH=向量AP+向量PH=向量AP+\lambda*向量PC=(2\lambda,\lambda,2-2\lambda)，因为AH包含于面BF，所以向量AH*向量m=0，所以\lambda-(2-2\lambda)=0，所以\lambda=2/3，所以PH/PC=2/3，所以PH=2PC/3=2/3*根号(4右上2+1+4)=2，所以PH的长为2。
+5	AP=AE=2，P(0,0,2)，向量PC=(2,1,-2)，设向量PH=\lambda*向量PC，(\lambda属于[0,1))，则向量AH-向量AP=\lambda向量AC-\lambda向量AP，向量AH=\lambda*向量AC+(1-\lambda)*向量AP，向量AH=(2\lambda,\lambda,2-2\lambda)，向量AF=(0,1,1)，向量AB=(1,0,0)，因为向量AH与向量AF，向量AB共面，向量AH=x*向量AF+y*向量AB=(y,x,x)，所以\lambda=2-2\lambda，所以\lambda=2/3，所以H(4/3,2/3,2/3)，P(0,0,2)，|PH|=根号((4/3)右上2+(2/3)右上2+(4/3)右上2)=2，所以PH长为2。
+5	设向量PH=\lambda*向量PC，0<\lambda<1，所以向量AH=向量AP+\lambda*向量PC=(2\lambda,\lambda,2-2\lambda)，因为A，FB，H共面，所以存在x，y属于R，向量AH=x向量AB+y向量AF，所以{2\lambda=x，\lambda=与，2-2\lambda=y}，所以\lambda=2/3，向量PH=2/3*向量PC，PH=2/3PC=2/3*根号(2右上2+5)=2。
+0	接上问，P(0,0,2)。
